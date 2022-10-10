@@ -1,7 +1,7 @@
 // Import Assets
-import SE from '../assets/SE.png';
-import SERev from '../assets/SERev.png';
-import UniRev from '../assets/UniRev.png';
+import SE from '../assets/SE.PNG';
+import SERev from '../assets/SERev.PNG';
+import UniRev from '../assets/UniRev.PNG';
 
 const Projects = () => {
     return (
