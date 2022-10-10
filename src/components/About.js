@@ -7,8 +7,8 @@ const About = () => {
             <h2>About Me</h2>
             <p>
             Hey! I'm currently a mechanical design engineer with three years of experience 
-            analyzing static structures, writing and reviewing technical reports, and developing
-            detailed designs with senior engineers. Over the past year, though, I've have had a
+            analyzing static structures, writing and reviewing technical reports, and collaborating
+            on designs with senior engineers. Over the past year, though, I've have had a
             strong interest in web3 and blockchain development for Ethereum, and have spent most
             of my time outside of work learning a wide array of related topics as a result. 
             These include foundational blockchain and computer science courses, languages such as 
