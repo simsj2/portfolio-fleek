@@ -5,23 +5,26 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Southern Illinois University</i>, 2015-2019
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>B.Sc. Mechanical Engineering</li>
+                        <li>Graduated Magna Cum Laude</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Naval Surface Warfare Center, Crane Division</i> - Mechanical Design Engineer, 2019-2022
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Analyzes static structures using finite element models and excel</li>
+                        <li>Prepares and reviews technical reports for analyses</li>
+                        <li>Collaborates with senior engineers to work out detailed designs</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Various Computer Courses</i>, 2021-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>CS50’s Introduction to Computer Science (HarvardX: b8d244267103430585d7fbc17780e58e)</li>
+                        <li>Blockchain Fundamentals (BerkleyX: 2dae79701c1f48f7aacb2d6d1b5dc5bd)</li>
+                        <li>HTML, CSS, and Javascript for Web Developers (JHU: coursera.org/verify/C5895MSYL88W)</li>
                     </ul>
                 </li>
             </ul>
