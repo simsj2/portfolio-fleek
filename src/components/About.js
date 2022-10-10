@@ -6,7 +6,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-            Hey! I'm currently a mechanical design engineer with three years of experience 
+            I'm currently a mechanical design engineer with three years of experience 
             analyzing static structures, writing and reviewing technical reports, and collaborating
             on designs with senior engineers. Over the past year, though, I've have had a
             strong interest in web3 and blockchain development for Ethereum, and have spent most
